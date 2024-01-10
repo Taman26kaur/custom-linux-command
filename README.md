@@ -16,5 +16,11 @@ sudo mv /current_path/internsct1 /usr/local/bin/
 Test the Script-- You should be able to run the internsct1 command from any terminal window. 
 
 # SCREENSHORT OF OUTPUTS ARE ATTACHED
+
 ![1 ](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/95c484d7-2f97-4d70-ab6f-af4f485521a4)
+![2](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/54200019-534e-4604-bd8b-8fc0d99e7de9)
+![3](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/8d5e54b4-82c9-4e2d-a50b-8326eae6fb22)
+![4](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/5009e1ff-438b-484d-8fda-d88ebd85ad87)
+![5](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/6d0893ba-262a-4bfe-a355-944a0a808786)
+![6](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/812e222a-3818-4280-a3ca-bf66c746e79f)
 
