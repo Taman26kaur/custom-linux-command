@@ -15,6 +15,10 @@ sudo mv /current_path/internsct1 /usr/local/bin/
 
 Test the Script-- You should be able to run the internsct1 command from any terminal window. 
 
+# Flow Diagram
+
+![7flow](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/bf3d0be1-3175-4917-a8c7-a2f71b8f586d)
+
 # SCREENSHORT OF OUTPUTS ARE ATTACHED
 
 ![1 ](https://github.com/Taman26kaur/custom-linux-command/assets/100130372/95c484d7-2f97-4d70-ab6f-af4f485521a4)
